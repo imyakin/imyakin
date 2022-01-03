@@ -1,6 +1,10 @@
 <h1 align="center">Hi, I'm Alexander Miakin</h1>
 <h3 align="center">Frontend Software Engineer</h3>
 
+<h4 align="center">You can check my train projects here👇🏻</h3>
+
+- 🔭Train project [MODERN UI](https://github.com/imyakin/MODERN-UI)
+
 - 🔭Train project [Redux+Thunk+Saga](https://github.com/imyakin/react-redux-saga)
 
 - 🌱 I’m currently learning **React, ReactNative**
