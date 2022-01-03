@@ -7,10 +7,9 @@
 
 - 🔭Train project [Redux+Thunk+Saga](https://github.com/imyakin/react-redux-saga)
 
+- 🔭Train project [Form-to-Table](https://github.com/imyakin/form_to_table)
 
-- 👯Train project [Form-to-Table](https://github.com/imyakin/form_to_table)
-
-- 🤝 Train project [Make a tree](https://github.com/imyakin/tree)
+- 🔭Train project [Make a tree](https://github.com/imyakin/tree)
 
 - 👨‍💻 All of my projects are available at [https://github.com/imyakin?tab=repositories](https://github.com/imyakin?tab=repositories)
 
