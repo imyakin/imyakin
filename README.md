@@ -2,6 +2,7 @@
 <h3 align="center">Frontend Software Engineer</h3>
 
 <h4 align="center">You can check my train projects here👇🏻</h3>
+
 - 🔭Train project [REDUX-TOOLKIT WORKSPACE](https://github.com/imyakin/redux-toolkit-workspace)
 
 - 🔭Train project [MODERN UI](https://github.com/imyakin/MODERN-UI)
