@@ -3,20 +3,6 @@
 
 <h4 align="center">You can check my train projects here👇🏻</h3>
 
-- 🔭Train project [REDUX-TOOLKIT WORKSPACE](https://github.com/imyakin/redux-toolkit-workspace)
-
-- 🔭Train project [MODERN UI](https://github.com/imyakin/MODERN-UI)
-
-- 🔭Train project [Redux+Thunk+Saga](https://github.com/imyakin/react-redux-saga)
-
-- 🔭Train project [Form-to-Table](https://github.com/imyakin/form_to_table)
-
-- 🔭Train project [Make a tree](https://github.com/imyakin/tree)
-
-- 👨‍💻 All of my projects are available at [https://github.com/imyakin?tab=repositories](https://github.com/imyakin?tab=repositories)
-
-- 🌱 I’m currently learning **React, ReactNative**
-
 - 📫 How to reach me **myakinalex@yandex.ru**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/alexander-miakin-60b01a21a/](https://www.linkedin.com/in/alexander-miakin-60b01a21a/)
