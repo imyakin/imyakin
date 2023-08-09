@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **myakinalex@yandex.ru**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/alexander-miakin-60b01a21a/](https://www.linkedin.com/in/alexander-miakin-60b01a21a/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/alexmiakin/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
