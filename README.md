@@ -3,7 +3,7 @@
 
 <h4 align="center">You can check my train projects here👇🏻</h3>
 
-- 📫 How to reach me **myakinalex@yandex.ru**
+- 📫 How to reach me **myakinalex@gmail.com**
 
 - 📄 Know about my experiences https://www.linkedin.com/in/alexmiakin/
 
